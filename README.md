@@ -14,6 +14,10 @@
 </div>
 </div>
 <br> 
+| <a href="https://github.com/ismoilov18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoilov18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ismoilov18 github stats" /></a> | <a href="https://github.com/ismoilov18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoilov18&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <div align="center" background="#333" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
